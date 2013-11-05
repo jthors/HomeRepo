@@ -1,0 +1,6 @@
+WindowsApplication2/[Bb]in
+WindowsApplication2/[Oo]bj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
